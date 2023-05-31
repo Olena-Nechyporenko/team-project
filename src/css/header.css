@@ -11,8 +11,10 @@
 
 .nav-link {
   font-weight: 500;
+  font-size: 50px;
   letter-spacing: 0.02em;
   line-height: 1.5;
+  background-color: aqua;
 }
 
 .nav-link:hover,
